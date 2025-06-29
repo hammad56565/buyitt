@@ -2,8 +2,8 @@ import React, { useContext, useEffect, useState } from 'react'
 import { ShopContext } from '../context/ShopContext'
 import { assets2 } from '../assets/frontend_assets/assets2'
 import Title from '../components/Title'
-// import ProductItem from '../components/ProductItem'
-import ProductItem from '../components/Productitem'; 
+import ProductItem from '../components/ProductItem'
+// import ProductItem from '../components/Productitem'; 
 
 
 const Collection = () => {
